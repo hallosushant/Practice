@@ -5,7 +5,7 @@ This problem was asked by Google.
 Invert a binary tree.
 
 For example, given the following tree:
-
+<pre>
     a
    / \
   b   c

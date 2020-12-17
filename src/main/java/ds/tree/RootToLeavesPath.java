@@ -3,7 +3,7 @@ package ds.tree;
 import java.util.Stack;
 /**
  * Given a binary tree, return all paths from the root to leaves.
-
+<pre>
 For example, given the tree:
 
    1
